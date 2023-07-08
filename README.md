@@ -1,5 +1,7 @@
 ### Welcome to Hoesu Chung's GitHub Page! ✌️(*°▽°*)👍
 
+<a href="https://blog.naver.com/hoesu1999" target="_blank"><img src="https://img.shields.io/badge/BLOG-00C73C?style=for-the-badge&logo-appveyor&logo=Naver&logoColor=FFFFFF"/></a>
+<a href="https://blog.naver.com/hoesu1999" target="_blank"><img src="https://img.shields.io/badge/wjdghltn10138@gmail.com-EA4335?style=for-the-badge&logo-appveyor&logo=gmail&logoColor=FFFFFF"/></a>
 ### 🔭 I’m currently studying at YBIGTA!
 ### 🌱 I’m currently learning Data Science!
 
