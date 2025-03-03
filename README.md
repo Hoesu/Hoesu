@@ -6,10 +6,8 @@
 <a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoesu%2Fhit-counter&count_bg=%234871BF&title_bg=%23000000&icon=opsgenie.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Hoesu&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Hoesu&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoesu&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoesu&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
-
-[![Hoesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoesu)](https://github.com/anuraghazra/github-readme-stats)
