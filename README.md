@@ -1,12 +1,18 @@
 ### Welcome to Hoesu Chung's GitHub Page!!
 
-<a href="https://blog.naver.com/hoesu1999" target="_blank"><img src="https://img.shields.io/badge/BLOG-00C73C?style=flat&logo-appveyor&logo=Naver&logoColor=FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/TREECOLLECTOR@YONSEI.AC.KR-EA4335?style=flat&logo-appveyor&logo=gmail&logoColor=FFFFFF"/></a>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wjdghltn10138)](https://solved.ac/wjdghltn10138)
+<a href="" target="_blank"><img src="https://img.shields.io/badge/WJDGHLTN10138@GMAIL.COM-EA4335?style=flat&logo-appveyor&logo=gmail&logoColor=FFFFFF"/></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Hoesu&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoesu&layout=compact&langs_count=8&card_width=320&theme=radical&hide=jupyter%20notebook" />
-</a>
+<div align="left">
+  <a href="https://github.com/Hoesu">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=Hoesu&rank_icon=github&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=nightowl"
+      height="180"
+    />
+  </a>
+  <a href="https://github.com/Hoesu">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=Hoesu&layout=donut&langs_count=4&theme=nightowl"
+      height="180"
+    />
+  </a>
+</div>
