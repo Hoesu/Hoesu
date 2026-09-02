@@ -1,4 +1,4 @@
-### Welcome to Hoesu Chung's GitHub Page!!
+### Welcome to Hoesu Chung's GitHub Page!
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/WJDGHLTN10138@GMAIL.COM-EA4335?style=flat&logo-appveyor&logo=gmail&logoColor=FFFFFF"/></a>
 
