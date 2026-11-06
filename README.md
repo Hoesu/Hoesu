@@ -1,18 +1,17 @@
-### Welcome to Hoesu Chung's GitHub!
+<div align="center">
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/WJDGHLTN10138@GMAIL.COM-EA4335?style=flat&logo-appveyor&logo=gmail&logoColor=FFFFFF"/></a>
+# Hi, I'm Hoesu Chung
 
-<div align="left">
-  <a href="https://github.com/Hoesu">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=Hoesu&rank_icon=github&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=nightowl"
-      height="180"
-    />
-  </a>
-  <a href="https://github.com/Hoesu">
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=Hoesu&layout=donut&langs_count=4&theme=nightowl"
-      height="180"
-    />
-  </a>
+<a href="mailto:wjdghltn10138@gmail.com"><img src="https://img.shields.io/badge/Email-wjdghltn10138%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://hoesu.github.io"><img src="https://img.shields.io/badge/Blog-hoesu.github.io-0B1A2B?style=flat-square&logo=astro&logoColor=white" alt="Blog"/></a>
+
+<a href="https://github.com/Hoesu">
+  <img height="180" alt="GitHub stats"
+    src="https://github-stats-extended.vercel.app/api?username=Hoesu&rank_icon=github&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true"/>
+</a>
+<a href="https://github.com/Hoesu">
+  <img height="180" alt="Top languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Hoesu&layout=donut&langs_count=5&hide=jupyter%20notebook&theme=nightowl&hide_border=true"/>
+</a>
+
 </div>
