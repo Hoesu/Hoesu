@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="mailto:wjdghltn10138@gmail.com"><img src="https://img.shields.io/badge/Email-wjdghltn10138%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://hoesu.github.io"><img src="https://img.shields.io/badge/Blog-hoesu.github.io-0B1A2B?style=flat-square&logo=astro&logoColor=white" alt="Blog"/></a>
+<a href="mailto:wjdghltn10138@gmail.com"><img src="https://img.shields.io/badge/Email-wjdghltn10138%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=ffeb95&labelColor=011627" alt="Email"/></a>
+<a href="https://hoesu.github.io"><img src="https://img.shields.io/badge/Blog-hoesu.github.io-BC52EE?style=flat-square&logo=astro&logoColor=ffeb95&labelColor=011627" alt="Blog"/></a>
 
 <a href="https://github.com/Hoesu">
   <img width="43%" alt="GitHub stats"
