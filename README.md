@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Hoesu Chung
-
 <a href="mailto:wjdghltn10138@gmail.com"><img src="https://img.shields.io/badge/Email-wjdghltn10138%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://hoesu.github.io"><img src="https://img.shields.io/badge/Blog-hoesu.github.io-0B1A2B?style=flat-square&logo=astro&logoColor=white" alt="Blog"/></a>
 
